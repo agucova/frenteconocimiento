@@ -15,3 +15,15 @@ collections:
       - {label: "Fecha de Publicación", name: "date", widget: "datetime"}
       - {label: "Imagen Destacada", name: "thumbnail", widget: "image"}
       - {label: "Cuerpo", name: "body", widget: "markdown"}
+  - name: "pages" # Used in routes, e.g., /admin/collections/blog
+    label: "Páginas" # Used in the UI
+    folder: "site/content/" # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Borrador", name: "draft", widget: "hidden", default: "false"}
+      - {label: "Menú", name: "menu", widget: "hidden", default: "main"}
+      - {label: "Fecha de Publicación", name: "date", widget: "datetime"}
+      - {label: "Imagen Destacada", name: "thumbnail", widget: "image"}
+      - {label: "Cuerpo", name: "body", widget: "markdown"}
