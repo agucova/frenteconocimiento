@@ -12,7 +12,7 @@ paginate = 10
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Frente Conocimiento"
-	description = "Describe your website"
+	description = "Somos una asociación de grupos científicos empeñados por luchar por el futuro de la ciencia en el país."
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -101,7 +101,7 @@ paginate = 10
 	[params.contact]
 		hide  = false
 		title = "Contáctanos"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		content = "Si tienes alguna pregunta, consulta o simplemente quieres mandar saludos, puedes contactarnos a través del formulario de abajo."
 
 		# This can be exact coordinates or a searchable address in google maps
 
