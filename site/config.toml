@@ -4,7 +4,7 @@ title = "Frente Conocimiento"
 theme = "hugo-strata-theme"
 disqusShortname = "frenteconocimiento"
 # Enable Google Analytics by inserting your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-50420608-8"
 # Define how many posts should appear on a site
 paginate = 10
 
@@ -140,4 +140,8 @@ paginate = 10
 [[menu.main]]
 	name = "Blog"
 	url  = "post/"
+	weight = 20
+[[menu.main]]
+	name = "Marcha"
+	url  = "https://marchaporlaciencia.cl/"
 	weight = 20
