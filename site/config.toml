@@ -138,7 +138,7 @@ paginate = 10
 	name = "Blog"
 	url  = "post/"
 	weight = -1
-[[menu.main]]
-	name = "Marcha"
-	url  = "https://marchaporlaciencia.cl/"
-	weight = 0
+# [[menu.main]]
+# 	name = "Marcha"
+# 	url  = "https://marchaporlaciencia.cl/"
+# 	weight = 0
