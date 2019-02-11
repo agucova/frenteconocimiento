@@ -3103,6 +3103,17 @@ glob@^7.0.3, glob@^7.0.5, glob@^7.1.2:
     once "^1.3.0"
     path-is-absolute "^1.0.0"
 
+glob@^7.1.3:
+  version "7.1.3"
+  resolved "https://registry.yarnpkg.com/glob/-/glob-7.1.3.tgz#3960832d3f1574108342dafd3a67b332c0969df1"
+  dependencies:
+    fs.realpath "^1.0.0"
+    inflight "^1.0.4"
+    inherits "2"
+    minimatch "^3.0.4"
+    once "^1.3.0"
+    path-is-absolute "^1.0.0"
+
 glob@~3.1.21:
   version "3.1.21"
   resolved "https://registry.yarnpkg.com/glob/-/glob-3.1.21.tgz#d29e0a055dea5138f4d07ed40e8982e83c2066cd"
@@ -3476,13 +3487,13 @@ https-browserify@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
 
-hugo-bin@^0.41.0:
-  version "0.41.0"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.41.0.tgz#a111e8cec3c0523ed420a7f76e591d1e15735da0"
+hugo-bin@^0.42.0:
+  version "0.42.0"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.42.0.tgz#52cd5a8e8a554a15150f2ca3fa4bd23796304a51"
   dependencies:
     bin-wrapper "^4.1.0"
     pkg-conf "^2.1.0"
-    rimraf "^2.6.2"
+    rimraf "^2.6.3"
     signale "^1.3.0"
 
 iconv-lite@^0.4.24:
@@ -5901,6 +5912,12 @@ rimraf@2, rimraf@^2.2.8, rimraf@^2.5.1, rimraf@^2.5.4, rimraf@^2.6.1, rimraf@^2.
   resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.6.2.tgz#2ed8150d24a16ea8651e6d6ef0f47c4158ce7a36"
   dependencies:
     glob "^7.0.5"
+
+rimraf@^2.6.3:
+  version "2.6.3"
+  resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.6.3.tgz#b2d104fe0d8fb27cf9e0a1cda8262dd3833c6cab"
+  dependencies:
+    glob "^7.1.3"
 
 ripemd160@^2.0.0, ripemd160@^2.0.1:
   version "2.0.1"
