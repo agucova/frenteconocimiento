@@ -29,7 +29,7 @@ paginate = 10
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "icono.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**Frente Conocimiento** es una asociación de grupos científicos con el objetivo de luchar por el futuro de la ciencia en el país."
+		bio = "**Frente Conocimiento** es una asociación de grupos científicos y académicos con el objetivo común de luchar por el futuro de la ciencia en el país."
 		# The icons will be shown if you enter your username
 		twitter = "ScienceMarchCL"
 		facebook = "ScienceMarchCL"
@@ -45,7 +45,7 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "Frente por el Conocimiento es una agrupación de activismo científico que tiene como principal objetivo de luchar por el **mejoramiento de la investigación, ciencia y el conocimiento en el país.**"
+		title = "Frente por el Conocimiento es una agrupación de activismo científico que tiene como principal objetivo el **mejoramiento de la investigación, la ciencia y el conocimiento en el país.**"
 		content = ""
 
 
