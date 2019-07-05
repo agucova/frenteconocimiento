@@ -14,18 +14,17 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "babel-loader": "^8.0.0",
-    "babel-eslint": "^10.0.0",
+    "babel-eslint": "^10.0.2",
+    "babel-loader": "^8.0.6",
     "babel-plugin-syntax-object-rest-spread": "^6.13.0",
     "babel-plugin-transform-class-properties": "^6.10.2",
     "babel-plugin-transform-object-assign": "^6.8.0",
     "babel-plugin-transform-object-rest-spread": "^6.8.0",
-    "babel-preset-env": "1.7.0",
     "babel-register": "^6.11.6",
-    "browser-sync": "^2.23.6",
-    "css-loader": "^1.0.0",
-    "eslint": "^5.0.0",
-    "eslint-plugin-import": "^2.0.0",
+    "browser-sync": "^2.26.7",
+    "css-loader": "^1.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-import": "^2.18.0",
     "exports-loader": "^0.7.0",
     "file-loader": "^2.0.0",
     "gulp": "^3.9.1",
@@ -33,16 +32,17 @@
     "gulp-flatten": "^0.4.0",
     "gulp-postcss": "^8.0.0",
     "gulp-util": "^3.0.7",
-    "gulp-watch": "^5.0.0",
-    "hugo-bin": "^0.43.0",
+    "gulp-watch": "^5.0.1",
+    "hugo-bin": "^0.43.6",
     "imports-loader": "^0.8.0",
     "postcss-cssnext": "^3.1.0",
-    "postcss-import": "^12.0.0",
-    "url-loader": "^1.0.0",
-    "webpack": "4.35.0",
+    "postcss-import": "^12.0.1",
+    "url-loader": "^1.1.2",
+    "webpack": "^4.35.2",
     "whatwg-fetch": "^3.0.0"
   },
   "devDependencies": {
-    "babel-core": "6.26.3"
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0"
   }
 }
