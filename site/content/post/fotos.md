@@ -1,6 +1,6 @@
 ---
 title: "Así fue la Marcha por la Ciencia 2019 (fotos)"
-slug: lgbt-en-stem
+slug: fotos-2019
 date: 2019-04-05T16:22:36-03:00
 draft: false
 ---
