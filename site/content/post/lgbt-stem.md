@@ -1,5 +1,5 @@
 ---
-title: "Día internacional de gente LGBTQ+ en STEM 🏳️‍🌈"
+title: "Día internacional de gente LGBTQ+ en STEM"
 slug: lgbt-en-stem
 date: 2019-07-05T16:22:36-03:00
 draft: false
