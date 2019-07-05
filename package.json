@@ -37,7 +37,7 @@
     "natives": "^1.1.6",
     "postcss-cssnext": "^3.1.0",
     "postcss-import": "^12.0.1",
-    "url-loader": "^1.1.2",
+    "url-loader": "^2.0.0",
     "webpack": "^4.35.2",
     "whatwg-fetch": "^3.0.0"
   },
