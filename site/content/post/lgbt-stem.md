@@ -13,14 +13,14 @@ Hoy día, 5 de julio, es la segunda vez que se celebra el día internacional de 
 
 Pero esto es en Estados Unidos y Reino Unido, en Chile uno esperaría números mucho mas exacerbados en la misma línea. No debería sorprender a nadie en la academia casos frecuentes de personas siendo urgidas a ocultarse en el clóset con tal de progresar en su carrera, o simplemente un sesgo generalizado en contra de las personas LGBTQ+.
 
-## Ciencia Diversa significa Mejor Ciencia
+## Ciencia diversa significa mejor ciencia
 ![Ilustración por Cinta Arribas, Agencia Sinc](https://www.agenciasinc.es/var/ezwebin_site/storage/images/opinion/lgbtstemday-la-ciencia-diversa-es-mejor-ciencia/6524504-1-esl-MX/LGBTSTEMDay-La-ciencia-diversa-es-mejor-ciencia_image_380.jpg)
 
 La diversidad en la comunidad científica es un [atributo necesario][diversidad] para balancear sesgos, promover la resolución de problemas y facilitar la especialización en la investigación, y por eso es importante que la tengamos en cuenta diariamente, sea sobre la representación de mujeres, de personas LGBTQ+ u otros grupos infrarepresentados.
 
 No es nada impresionante oir que la percepción pública de un "científico" [sigue siendo un hombre][estereotipo] blanco heteronormado, y esa clase de estereotipos afecta directamente a las personas que forman parte de la academia, por un lado influyendo de forma significativa en la percepción vocacional de estudiantes y futuros científicos, y por el otro afectando como evaluamos la [competencia de investigadores][competencia].
 
-Es por esto que este año queríamos adherir oficialmente como Frente Conocimiento (y marcha por la ciencia) al día internacional, y los invitamos a contribuir como sea posible, sea abriendo el tema de representación e inclusividad con compañeros, o sea publicando o compartiendo historias de visibilidad LGBTQ+ con el hashtag #QueerInSTEM o #LGBTSTEMDay.
+Es por esto que este año queríamos adherir oficialmente como Frente Conocimiento (y Marcha por la Ciencia Chile) a la convocatoria internacional, y los invitamos a contribuir como sea posible, sea abriendo el tema de representación e inclusividad con compañeros, o sea publicando o compartiendo historias de visibilidad LGBTQ+ con el hashtag #QueerInSTEM o #LGBTSTEMDay.
 
 [diversidad]: https://www.nature.com/articles/d41586-018-05326-3
 [representacion]: https://www.tandfonline.com/doi/abs/10.1080/00918369.2015.1078632?journalCode=wjhm20&
