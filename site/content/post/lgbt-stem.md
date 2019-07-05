@@ -1,22 +1,22 @@
 ---
 title: "Día internacional de gente LGBTQ+ en STEM"
 slug: lgbt-en-stem
-date: 2019-07-05T16:22:36-03:00
-draft: false
+date: 2019-07-04T16:22:36-03:00
 ---
-![Día LGBTSTEM](https://lgbtqinirishstem.files.wordpress.com/2018/03/untitled-design-3.png?w=1200)
+![Día LGBTSTEM](https://lgbtqinirishstem.files.wordpress.com/2018/03/untitled-design-3.png?w=500#center)
 
 > *"A veces son las personas de las que nadie imagina nada, las que hacen cosas inimaginables."* - Alan Turing
 
 Hoy día, 5 de julio, es la segunda vez que se celebra el día internacional de personas LGBTQ+ (lesbiana, gay, bisexual, trans y *queer*) en ciencia, tecnología, ingeniería y matemática (STEM), [una fecha][lgbtstem] dedicada a celebrar la vida y trabajo de personas LGBT en una variedad de áreas del conocimiento.
 
- ## Visibilidad y Representación
- Las investigaciones que respectan a las personas LGBTQ en diferentes áreas STEM escasea bastante debido a distintas razones, pero recientemente, varios estimados en países desarrollados sugieren que la gente LGBTQ se encuentran [entre un 17% a un 21% menos representados][representacion] en estos campos de lo que se espera, y un estudio notó que estudiantes universitarios hombres pertenecientes a estas minorías sexuales tienen una mucho mayor posibilidad de abandonar sus estudios, incluso cuando estos tienen mucha mayor probabilidad de tener experiencia práctica en investigación.
+## Visibilidad y Representación
+
+Las investigaciones que respectan a las personas LGBTQ en diferentes áreas STEM escasea bastante debido a distintas razones, pero recientemente, varios estimados en países desarrollados sugieren que la gente LGBTQ se encuentran [entre un 17% a un 21% menos representados][representacion] en estos campos de lo que se espera, y un estudio notó que estudiantes universitarios hombres pertenecientes a estas minorías sexuales tienen una mucho mayor posibilidad de abandonar sus estudios, incluso cuando estos tienen mucha mayor probabilidad de tener experiencia práctica en investigación.
 
 Pero esto es en Estados Unidos y Reino Unido, en Chile uno esperaría números mucho mas exacerbados en la misma línea. No debería sorprender a nadie en la academia casos frecuentes de personas siendo urgidas a ocultarse en el clóset con tal de progresar en su carrera, o simplemente un sesgo generalizado en contra de las personas LGBTQ+.
 
 ## Ciencia diversa significa mejor ciencia
-![Ilustración por Cinta Arribas, Agencia Sinc](https://www.agenciasinc.es/var/ezwebin_site/storage/images/opinion/lgbtstemday-la-ciencia-diversa-es-mejor-ciencia/6524504-1-esl-MX/LGBTSTEMDay-La-ciencia-diversa-es-mejor-ciencia_image_380.jpg)
+![Ilustración por Cinta Arribas, Agencia Sinc](https://www.agenciasinc.es/var/ezwebin_site/storage/images/opinion/lgbtstemday-la-ciencia-diversa-es-mejor-ciencia/6524504-1-esl-MX/LGBTSTEMDay-La-ciencia-diversa-es-mejor-ciencia_image_380.jpg#center)
 
 La diversidad en la comunidad científica es un [atributo necesario][diversidad] para balancear sesgos, promover la resolución de problemas y facilitar la especialización en la investigación, y por eso es importante que la tengamos en cuenta diariamente, sea sobre la representación de mujeres, de personas LGBTQ+ u otros grupos infrarepresentados.
 
