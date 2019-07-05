@@ -5,6 +5,8 @@ draft: false
 
 Frente Conocimiento es una asociación chilena de varias organizaciones científicas dedicadas a organizar actividades y eventos como la Marcha por la Ciencia, al igual que promover el activismo y la divulgación científica.
 
+El frente surgió en 2017 tras la primera edición de la [Marcha por la Ciencia en Chile](https://marchaporlaciencia.cl), marcha satélite del movimiento global denominado *[March for Science](marchforscience.com)*, que reunió cerca de 10.000 personas en todo Chile. Desde entonces hemos organizado la marcha de forma anual, y planeamos una serie de actividades de activismo científico.
+
 ## Colaboradores
 <section id="colab">
 <a style="text-decoration: none; border-bottom:none;" href="https://chilehaceciencia.cl"><img alt="Chile Hace Ciencia" src="../images/colab/chc.jpg" <="" img="" height="200"></a>
