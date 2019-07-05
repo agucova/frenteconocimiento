@@ -2,7 +2,7 @@
 title: "Día internacional de gente LGBTQ+ en STEM 🏳️‍🌈"
 slug: lgbt-en-stem
 date: 2019-07-05T16:22:36-03:00
-draft: true
+draft: false
 ---
 ![Día LGBTSTEM](https://lgbtqinirishstem.files.wordpress.com/2018/03/untitled-design-3.png?w=1200)
 
