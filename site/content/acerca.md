@@ -1,6 +1,7 @@
 ---
 title: "Acerca"
 draft: false
+date: 2019-07-04
 ---
 
 Frente Conocimiento es una asociación chilena de varias organizaciones científicas dedicadas a organizar actividades y eventos como la Marcha por la Ciencia, al igual que promover el activismo y la divulgación científica.
