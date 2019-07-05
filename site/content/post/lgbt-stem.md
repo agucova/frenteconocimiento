@@ -3,6 +3,15 @@ title: "Día internacional de gente LGBTQ+ en STEM"
 slug: lgbt-en-stem
 date: 2019-07-04T16:22:36-03:00
 ---
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@sciencemarchcl"/>
+<meta name="twitter:creator" content="@austinc3301" />
+<meta property="og.url" content="https://frenteconocimiento.cl/post/lgbt-en-stem/"/>
+<meta property="og:title" content="Día internacional de gente LGBTQ+ en STEM" />
+<meta property="og:description" content="Hoy 5 de julio, se celebra el día internacional de personas LGBTQ+ en STEM, una fecha dedicada a celebrar la vida y trabajo de personas LGBT en una variedad de áreas del conocimiento." />
+<meta property="og:image" content="https://lgbtqinirishstem.files.wordpress.com/2018/03/untitled-design-3.png?w=500#center" />
+
+
 ![Día LGBTSTEM](https://lgbtqinirishstem.files.wordpress.com/2018/03/untitled-design-3.png?w=500#center)
 
 > *"A veces son las personas de las que nadie imagina nada, las que hacen cosas inimaginables."* - Alan Turing
@@ -25,6 +34,7 @@ La diversidad en la comunidad científica es un [atributo necesario][diversidad]
 No es nada impresionante oir que la percepción pública de un "científico" [sigue siendo un hombre][estereotipo] blanco heteronormado, y esa clase de estereotipos afecta directamente a las personas que forman parte de la academia, por un lado influyendo de forma significativa en la percepción vocacional de estudiantes y futuros científicos, y por el otro afectando como evaluamos la [competencia de investigadores][competencia].
 
 Es por esto que este año adherimos oficialmente como Frente Conocimiento (y Marcha por la Ciencia Chile) a la convocatoria internacional, y los invitamos a contribuir como sea posible, sea abriendo el tema de representación e inclusividad con compañeros, o sea publicando o compartiendo historias de visibilidad LGBTQ+ con el hashtag *#QueerInSTEM* o *#LGBTSTEMDay*.
+
 
 [diversidad]: https://www.nature.com/articles/d41586-018-05326-3
 [representacion]: https://www.tandfonline.com/doi/abs/10.1080/00918369.2015.1078632?journalCode=wjhm20&
