@@ -34,6 +34,7 @@ No es nada impresionante oir que la percepción pública de un "científico" [si
 
 Es por esto que este año adherimos oficialmente como Frente Conocimiento (y Marcha por la Ciencia Chile) a la convocatoria internacional, y los invitamos a contribuir como sea posible, sea abriendo el tema de representación e inclusividad con compañeros, o sea publicando o compartiendo historias de visibilidad LGBTQ+ con el hashtag *#QueerInSTEM* o *#LGBTSTEMDay*.
 
+*Escrito por Agustín Covarrubias ([@austinc3301](https://twitter.com/austinc3301))*
 
 [diversidad]: https://www.nature.com/articles/d41586-018-05326-3
 [representacion]: https://www.tandfonline.com/doi/abs/10.1080/00918369.2015.1078632?journalCode=wjhm20&
