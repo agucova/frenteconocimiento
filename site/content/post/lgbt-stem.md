@@ -2,15 +2,14 @@
 title: "Día internacional de gente LGBTQ+ en STEM"
 slug: lgbt-en-stem
 date: 2019-07-04T16:22:36-03:00
+twitter:
+    card: "summary_large_image"
+    site: "@sciencemarchcl"
+    creator: "@austinc3301"
+    title: "Día internacional de gente LGBTQ+ en STEM"
+    image: "https://lgbtqinirishstem.files.wordpress.com/2018/03/untitled-design-3.png?w=500#center"
+    description: "Hoy 5 de julio, se celebra el día internacional de personas LGBTQ+ en STEM, una fecha dedicada a celebrar la vida y trabajo de personas LGBT en una variedad de áreas del conocimiento."
 ---
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:site" content="@sciencemarchcl"/>
-<meta name="twitter:creator" content="@austinc3301" />
-<meta property="og.url" content="https://frenteconocimiento.cl/post/lgbt-en-stem/"/>
-<meta property="og:title" content="Día internacional de gente LGBTQ+ en STEM" />
-<meta property="og:description" content="Hoy 5 de julio, se celebra el día internacional de personas LGBTQ+ en STEM, una fecha dedicada a celebrar la vida y trabajo de personas LGBT en una variedad de áreas del conocimiento." />
-<meta property="og:image" content="https://lgbtqinirishstem.files.wordpress.com/2018/03/untitled-design-3.png?w=500#center" />
-
 
 ![Día LGBTSTEM](https://lgbtqinirishstem.files.wordpress.com/2018/03/untitled-design-3.png?w=500#center)
 
