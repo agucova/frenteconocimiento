@@ -45,7 +45,7 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "El Frente Por el Conocimiento es una agrupación que tiene el objetivo de luchar por el mejoramiento de la investigación, ciencia y el conocimiento en el país."
+		title = "Frente por el Conocimiento es una agrupación de activismo científico que tiene como principal objetivo de luchar por el *mejoramiento de la investigación, ciencia y el conocimiento en el país.*"
 		content = ""
 
 
